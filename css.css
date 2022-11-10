@@ -1,0 +1,15 @@
+body {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: bold;
+  font-size: 200%;
+  background: black;
+  color: gray;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.on {
+  color: yellow;
+}
